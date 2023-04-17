@@ -1,4 +1,4 @@
-module kubevirt.io/kubevirt
+module charleschou56/kubevirt
 
 require (
 	github.com/Masterminds/semver v1.5.0
